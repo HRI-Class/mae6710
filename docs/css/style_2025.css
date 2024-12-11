@@ -1,5 +1,5 @@
 body {
-	font-size: 15px;
+	font-size: 14px;
 	font-family: 'Roboto Mono', monospace;
   padding-top: 70px;
   padding-bottom: 20px;
@@ -13,7 +13,7 @@ body {
   border-bottom: 1px solid #000;
 }
 .navbar-nav .nav-link{
-	font-size: 14px;
+  font-size: 13px;
   color: #000;
   font-weight: 300;
 }
@@ -42,6 +42,10 @@ body {
 
 /* ------------ OTHER STYLES ------------ */
 
+.table {
+  font-size: 14px;
+}
+
 .container img{
 	max-width:100%;
 }
@@ -52,6 +56,6 @@ h1, h2, h3 {
 }
 
 footer{
-	font-size:14px;
+	font-size:11px;
   padding-top: 30px;
 }
