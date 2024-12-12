@@ -6,6 +6,11 @@ body {
 	background-color: #CBE5F7;
 }
 
+strong {
+  font-weight: bolder;
+  background-color: lightgoldenrodyellow;
+}
+
 /* ------------ NAVBAR ------------ */
 
 .navbar {
