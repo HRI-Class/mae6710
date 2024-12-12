@@ -19,21 +19,21 @@ As robots move from factory floors and battlefields into homes, offices, schools
 ## Schedule
 
 {: .overview .table .table-striped :}
-||Lecture| Activity | Paper Presentation | Assignment Due |
-|--|--|--|--|--|
-| 01/24 | Introduction to HRI | How to Search for Papers | How to Present a Paper | |
-| 01/31 | Probability and Inference | Bayesian Inference | _TBD_ | |
-| 02/07 | Markov Models and HMMs | HMM Notebook | _TBD_ | Probability Quiz |
-| 02/14 | Bayesian Filtering | ROS Workshop | _TBD_ | |
-| 02/21 | Particle Filtering | Start MCL Notebook | _TBD_ | HMM Quiz|
-| 02/28 | Decision Making and MDPs | ROS Workshop | _TBD_ | ROS 1|
-| 03/07 | Dynamic Programming | Grid World Dynamic Programming | _TBD_ | |
-| 03/14 | RL: Monte Carlo | Grid World RL | _TBD_ | ROS 2 |
-| 03/21 | RL: TD / SARSA | Grid World TD / SARSA | _TBD_ |  |
+||Lecture | Activity | Paper Presentation | Required Reading | Assignment Due |
+|--|--|--|--|--|--|
+| 01/24 | Introduction to HRI | How to Search for Papers | How to Present a Paper 
+| 01/31 | Probability and Inference | Bayesian Inference | _TBD_ 
+| 02/07 | Markov Models and HMMs | HMM Notebook | _TBD_ | [Dennet (1987) Ch. 2](/files/dennet1987-ch2.pdf) | Probability Quiz |
+| 02/14 | Bayesian Filtering | ROS Workshop | _TBD_ | [Helbing & Molnar (1995)](http://vision.cse.psu.edu/courses/Tracking/vlpr12/HelbingSocialForceModel95.pdf)
+| 02/21 | Particle Filtering | Start MCL Notebook | _TBD_ | [Bratman (1992)](http://web.media.mit.edu/~cynthiab/Readings/bratman-PhilRev-92.pdf) |HMM Quiz|
+| 02/28 | Decision Making and MDPs | ROS Workshop | _TBD_ | [Dragan & Srinivasa (2014)](https://www.ri.cmu.edu/pub_files/2014/7/legibility_AURO14.pdf)| ROS 1|
+| 03/07 | Dynamic Programming | Grid World Dynamic Programming | _TBD_ | [Ekman & Friesen (1969)](http://www.communicationcache.com/uploads/1/0/8/8/10887248/the_repertoire_of_nonverbal_behavior_categories_origins__usage_and_coding.pdf) |
+| 03/14 | RL: Monte Carlo | Grid World RL | _TBD_ | [Argyle _et al._ (1973)](http://web.media.mit.edu/~cynthiab/Readings/argyle-73.pdf) | ROS 2 |
+| 03/21 | RL: TD / SARSA | Grid World TD / SARSA | _TBD_ | [Argall _et al._ (2009)](https://doi.org/10.1016/j.robot.2008.10.024) |
 | 03/28 | RL: Q-Learning | Grid World Q-Learning | _TBD_ | |
-| 04/04 | **Spring Break** | | | |
-| 04/11 | Human Participant Experiments | Final Project Workshop | <--- | ROS 3 |
-| 04/18 | Measures and Metrics | Experiment Design Workshop | <--- | |
-| 04/25 | Experimental Statistics 1 | Regression Notebook | Final Project Workshop | Final Project Proposal|
+| 04/04 | Spring Break | | | |
+| 04/11 | Human Participant Experiments | Final Project Workshop | <--- | [Hoffman & Zhao (2020)](https://dl.acm.org/doi/pdf/10.1145/3412374) | ROS 3 |
+| 04/18 | Measures and Metrics | Experiment Design Workshop | <--- | 
+| 04/25 | Experimental Statistics 1 | Regression Notebook | Final Project Workshop | | Final Project Proposal|
 | 05/02 | Experimental Statistics 2 | T-Test Notebook | Final Project Workshop  | |
-| TBD   | **Final Project Presentations** | | | |
+| TBD   | Final Project Presentations | | | |
