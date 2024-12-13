@@ -63,7 +63,7 @@ strong {
 }
 
 .table-striped > tbody > tr:nth-of-type(odd) > td {
-  background-color: ##D9E8E8; 
+  background-color: #D9E8E8; 
 }
 
 /* ------------ OTHER STYLES ------------ */
