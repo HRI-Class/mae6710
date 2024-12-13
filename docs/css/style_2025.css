@@ -45,11 +45,24 @@ strong {
   text-decoration: underline;
 }
 
-/* ------------ OTHER STYLES ------------ */
+/* ------------ TABLE ------------ */
 
 .table {
   font-size: 14px;
+  background-color: inherit;
 }
+
+.table th, .table td {
+  background-color: #CBE5F7;
+  font-weight: bolder;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) > td {
+  background-color: #eff8ff !important; /* Adjust this to a lighter shade */
+}
+
+/* ------------ OTHER STYLES ------------ */
+
 
 .container img{
 	max-width:100%;
