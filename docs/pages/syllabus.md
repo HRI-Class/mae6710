@@ -34,8 +34,9 @@ Graduate standing. Seniors need permission of instructor. Python programming exp
 ### Required Readings
 
 - Computational Human-Robot Interaction. Thomaz, Hoffman, & Cakmak, Foundations and Trends in Robotics. Vol 4: No. 2-3. Now Publishers, 2016.
+- Inferring Human Intent and Predicting Human Action in Human–Robot Collaboration. Hoffman, Bhattacharjee, and Nikolaidis, Annual Review of Control, Robotics, and Autonomous Systems. Vol 7:73-95, 2024.
 - Artificial Intelligence: A Modern Approach. 4th Ed. Russell & Norvig, Prentice Hall, 2020.
-- Reinforcement learning: An introduction (2nd ed.). Sutton & Barto. MIT Press, 2018. [OnlineLinks to an external site.]
+- Reinforcement learning: An introduction (2nd ed.). Sutton & Barto. MIT Press, 2018. 
 
 ### Additional Readings
 
