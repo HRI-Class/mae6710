@@ -38,10 +38,12 @@ strong {
 }
 
 .dropdown-menu {
+  font-size: 13px;
   background-color: #CBE5F7;
 }
 .dropdown-item:hover {
   color: #000;
+  background-color: inherit;
   text-decoration: underline;
 }
 
