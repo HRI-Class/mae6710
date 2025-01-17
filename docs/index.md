@@ -21,8 +21,8 @@ As robots move from factory floors and battlefields into homes, offices, schools
 {: .overview .table .table-striped :}
 ||Lecture | Activity | Paper Presentation |  Assignment Due |
 |--|--|--|--|--|--|
-| 01/24 | Introduction to HRI | How to Search for Papers | How to Present a Paper 
-| 01/31 | Probability and Inference | Bayesian Inference |  | Choose a Paper to Present
+| 01/24 | Introduction to HRI | What Does HRI Entail? | How to Search for Papers 
+| 01/31 | Probability and Inference | Bayesian Inference | How to Present a Paper | Choose a Paper to Present
 | 02/07 | Markov Models and HMMs | HMM Notebook | _TBD_ | Probability Quiz |
 | 02/14 | Bayesian Filtering | ROS Workshop | _TBD_ 
 | 02/21 | Particle Filtering | Start MCL Notebook | _TBD_ | HMM Quiz |
